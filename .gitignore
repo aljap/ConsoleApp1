@@ -1,0 +1,19 @@
+# Ignore build outputs
+ConsoleCalculatorTests/bin
+ConsoleCalculatorTests/obj
+ConsoleApp1/bin
+ConsoleApp1/obj
+
+# Ignore user-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore Rider project files
+.idea/
+
+# Ignore Visual Studio Code settings
+.vscode/
+
